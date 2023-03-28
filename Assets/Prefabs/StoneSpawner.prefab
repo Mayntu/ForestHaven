@@ -1,0 +1,56 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1 &7031640562289635860
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 7031640562289635862}
+  - component: {fileID: 7031640562289635861}
+  m_Layer: 0
+  m_Name: StoneSpawner
+  m_TagString: StoneSpawner
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &7031640562289635862
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7031640562289635860}
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -0.84, y: 14.9, z: -0.07563577}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children: []
+  m_Father: {fileID: 0}
+  m_RootOrder: 0
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &7031640562289635861
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 7031640562289635860}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bb8f9c6a0bddcc4438833ccab71ae00a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  treePrefabs:
+  - {fileID: 8623142323527114616, guid: 79e2163887db83a4aa64bce429bfe44f, type: 3}
+  - {fileID: 2616587284944200272, guid: 6ab039bb3c0aace40875657392268846, type: 3}
+  - {fileID: 7680033172315656330, guid: 6f5ca11722738944ca6a2df7a192a143, type: 3}
+  - {fileID: 235847852889634398, guid: 0ad27b2427a8bf74399e455edb2323e5, type: 3}
+  maxTrees: 20
+  spawnRadius: 4
+  refillTime: 7
+  treeOffset: 1
+  currentTreeCount: 0

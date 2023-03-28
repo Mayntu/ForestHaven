@@ -1,0 +1,1037 @@
+fileFormatVersion: 2
+guid: bd0682b98a2837d44ab01032a40ec1d3
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 292
+        width: 11
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9066ba931032b85448746d6c9be0d170
+      internalID: 1433027289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_1
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 292
+        width: 11
+        height: 18
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa02af898dddaf94e87bb17542949693
+      internalID: 1718145704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_2
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 292
+        width: 11
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6972c921747b945bb606fe6a0fc012
+      internalID: 648845662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_3
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 292
+        width: 11
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5cbdfcabbc289468ebf02c73221c69
+      internalID: 613831877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_4
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 260
+        width: 11
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958371aa5ddd53042b0c9506583aef0a
+      internalID: 438257215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_5
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 260
+        width: 11
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55dd8cad5fb86545a99ceed086c7245
+      internalID: -820081677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_6
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 260
+        width: 11
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e6478dd010966d48b441e65b6d67e3e
+      internalID: -1395172758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_7
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 260
+        width: 11
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f43d903b51c8b8743a13876522982761
+      internalID: -985020485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 230
+        width: 12
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5b43851a4f64aa4694c08a57ce52e07
+      internalID: 1543770309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_9
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 228
+        width: 11
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f0120a708510674e97dd501112769f8
+      internalID: -1420374913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_10
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 228
+        width: 11
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b1b5fa41c7767644ae4d8d0d6840f5f
+      internalID: 1540586624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_11
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 228
+        width: 11
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1cecb159fc8ed4db7c2c4d906e6958
+      internalID: -1256913688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_12
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 230
+        width: 12
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef04a3b1521df8f48851c21c60fb3894
+      internalID: -594708827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_13
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 228
+        width: 11
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67f1e9df58a28348bc50a62156bfcb1
+      internalID: 725781301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_14
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 228
+        width: 11
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98481781e7f3cef47a345da09d4d63f4
+      internalID: -1051376815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_15
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 228
+        width: 11
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb64c32b501d31d459b01a9aaf1fa50c
+      internalID: 1776123802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_16
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 198
+        width: 12
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19b5ad5fcbf7fb4d8d345cf0e5f83a3
+      internalID: 867869880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 165
+        width: 12
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfaa791522637ef46b431f42c0b4332b
+      internalID: -1250502513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_18
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 132
+        width: 11
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1a1ae6d3498cfb4186b9777f5c3d820
+      internalID: 2009255304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_19
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 132
+        width: 11
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d5d17a6c5ef50b4fa2c6f6d0b46e02c
+      internalID: 312059120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_20
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 132
+        width: 11
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f20d71a732c71e74e99e45a22b5d1481
+      internalID: -878133132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_21
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 100
+        width: 11
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f28de8f3c01bfe4095e54fe6013ee5a
+      internalID: -1312494103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_22
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 100
+        width: 11
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c17949e1b1647eb4ba0c3665d772a828
+      internalID: -1233977635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_23
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 100
+        width: 11
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25bd31900ae34de47a42b630df22df7d
+      internalID: 2116750108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_24
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 101
+        width: 12
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48028f0764aadda41ba115a34e14232f
+      internalID: -1424205349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_25
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 100
+        width: 11
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94c7f62f4baab944bbc218588244fc95
+      internalID: -1419630314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_26
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 100
+        width: 12
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1b4fa4fe8cce3438ef47204786a52e
+      internalID: -1680522556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_27
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 100
+        width: 11
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f839e810597a59459f3490239519708
+      internalID: -1950073013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_28
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 100
+        width: 11
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99cfbf78e447bc845aa1c0a5e5cd930c
+      internalID: -1786266628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_29
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 68
+        width: 11
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa5b34f89c23c194ab7a7a228f9bb129
+      internalID: -1808123351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_30
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 68
+        width: 10
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1085be82586a90a4ca02fa3ff20046c5
+      internalID: 1723376347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_31
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 68
+        width: 10
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75a8b2dd140214244b2ce52db1ed9c7f
+      internalID: -1061464827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_32
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 68
+        width: 11
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f5fda87f7d23784cace880114bbb21f
+      internalID: -2135594474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_33
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 36
+        width: 11
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a0b8576df1a8824db6bcf42196705cb
+      internalID: -724756084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_34
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 36
+        width: 11
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89ce31d662ffa414cbfbf2a473a7626d
+      internalID: 1534586949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_35
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 36
+        width: 11
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdd0d16d33b258843b1a305791db3b23
+      internalID: 1769645369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_36
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 36
+        width: 11
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2afa54ca666c4b249815fbcff1389018
+      internalID: 937715582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_37
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 4
+        width: 11
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd11204559ec3c4abd5c39a23cdd8ef
+      internalID: 1636349249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_38
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 4
+        width: 11
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fd5d1d67c2fd13428851b1c7d8927b4
+      internalID: 1359294154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_39
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 4
+        width: 11
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e699be96a56534397c5ae0afbe2071
+      internalID: -656346099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: mPlayer_ [dwarf]_40
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 4
+        width: 16
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.14}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7df555df405c394ebd98d25d383020f
+      internalID: -1204017006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      mPlayer_ [dwarf]_36: 937715582
+      mPlayer_ [dwarf]_39: -656346099
+      mPlayer_ [dwarf]_6: -1395172758
+      mPlayer_ [dwarf]_26: -1680522556
+      mPlayer_ [dwarf]_28: -1786266628
+      mPlayer_ [dwarf]_20: -878133132
+      mPlayer_ [dwarf]_10: 1540586624
+      mPlayer_ [dwarf]_30: 1723376347
+      mPlayer_ [dwarf]_11: -1256913688
+      mPlayer_ [dwarf]_32: -2135594474
+      mPlayer_ [dwarf]_31: -1061464827
+      mPlayer_ [dwarf]_17: -1250502513
+      mPlayer_ [dwarf]_38: 1359294154
+      mPlayer_ [dwarf]_29: -1808123351
+      mPlayer_ [dwarf]_5: -820081677
+      mPlayer_ [dwarf]_2: 648845662
+      mPlayer_ [dwarf]_9: -1420374913
+      mPlayer_ [dwarf]_24: -1424205349
+      mPlayer_ [dwarf]_0: 1433027289
+      mPlayer_ [dwarf]_27: -1950073013
+      mPlayer_ [dwarf]_40: -1204017006
+      mPlayer_ [dwarf]_12: -594708827
+      mPlayer_ [dwarf]_18: 2009255304
+      mPlayer_ [dwarf]_16: 867869880
+      mPlayer_ [dwarf]_37: 1636349249
+      mPlayer_ [dwarf]_3: 613831877
+      mPlayer_ [dwarf]_7: -985020485
+      mPlayer_ [dwarf]_8: 1543770309
+      mPlayer_ [dwarf]_35: 1769645369
+      mPlayer_ [dwarf]_1: 1718145704
+      mPlayer_ [dwarf]_23: 2116750108
+      mPlayer_ [dwarf]_13: 725781301
+      mPlayer_ [dwarf]_14: -1051376815
+      mPlayer_ [dwarf]_15: 1776123802
+      mPlayer_ [dwarf]_22: -1233977635
+      mPlayer_ [dwarf]_25: -1419630314
+      mPlayer_ [dwarf]_34: 1534586949
+      mPlayer_ [dwarf]_4: 438257215
+      mPlayer_ [dwarf]_33: -724756084
+      mPlayer_ [dwarf]_19: 312059120
+      mPlayer_ [dwarf]_21: -1312494103
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

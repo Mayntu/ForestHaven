@@ -1,0 +1,519 @@
+fileFormatVersion: 2
+guid: 26075d7e2a877454891ccbb716fe53f7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pathDecoration__0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 148
+        width: 10
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 775b78f2f6d07dd4dbf168547676e33f
+      internalID: 16500466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pathDecoration__1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 148
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8749bbbe4a57e4d4bb818786a0ee8d99
+      internalID: 386423105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pathDecoration__2
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 132
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173965abb767c324c9fe1dc8e582ed6d
+      internalID: -82003276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pathDecoration__3
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 132
+        width: 8
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 977ec409bfc7c7b48aedc5a926326310
+      internalID: -1481756428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pathDecoration__4
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 83
+        width: 10
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bb3a566fe3eab45b6c09fdf5884d56
+      internalID: 1055948642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pathDecoration__5
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 69
+        width: 22
+        height: 25
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83a6117b2d9d40748af20c7b03d6f723
+      internalID: 919901458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pathDecoration__6
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 50
+        width: 14
+        height: 15
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: adf51e27777107847b2177b355283c5e
+      internalID: -649673653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pathDecoration__7
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 50
+        width: 14
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756198d272ddfc54982a4ba88aedc9a8
+      internalID: 1601564665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pathDecoration__8
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 50
+        width: 12
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad41e1d7dfb88c843ad376ecd596d6f2
+      internalID: 469399389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pathDecoration__9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 49
+        width: 14
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c326ca64fec5e7f45b1e4eff7c441f7b
+      internalID: 345771725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pathDecoration__10
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 50
+        width: 14
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 316cec000631c1e4496c743fa7fa667f
+      internalID: -1728555575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pathDecoration__11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 18
+        width: 26
+        height: 17
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6f3c1a4d3884f74eb4dfaa22c5be6cd
+      internalID: -1916576368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pathDecoration__12
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 18
+        width: 26
+        height: 24
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be873e1e6d204bd47a2e249d1e320cf0
+      internalID: 1626488763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pathDecoration__13
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 18
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843ac67c0c3769947b221401c334b467
+      internalID: -369080241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pathDecoration__14
+      rect:
+        serializedVersion: 2
+        x: 113
+        y: 18
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83935372a26ae114898b2c118e6fb691
+      internalID: -2046977214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pathDecoration__15
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 18
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c9433552b82f543b898855a128071e
+      internalID: 911890382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pathDecoration__16
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 18
+        width: 14
+        height: 16
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3251a955d78b7924f8ab83f01fa4f200
+      internalID: -1200917208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pathDecoration__17
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 148
+        width: 23
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 857864709196c5d40ae54973e3168d1e
+      internalID: -967759145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      pathDecoration__7: 1601564665
+      pathDecoration__15: 911890382
+      pathDecoration__2: -82003276
+      pathDecoration__14: -2046977214
+      pathDecoration__0: 16500466
+      pathDecoration__10: -1728555575
+      pathDecoration__1: 386423105
+      pathDecoration__17: -967759145
+      pathDecoration__11: -1916576368
+      pathDecoration__4: 1055948642
+      pathDecoration__16: -1200917208
+      pathDecoration__6: -649673653
+      pathDecoration__3: -1481756428
+      pathDecoration__13: -369080241
+      pathDecoration__5: 919901458
+      pathDecoration__9: 345771725
+      pathDecoration__8: 469399389
+      pathDecoration__12: 1626488763
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

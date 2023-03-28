@@ -1,0 +1,54 @@
+{
+    "name": "New Controls",
+    "maps": [
+        {
+            "name": "PlayerInput",
+            "id": "fad81ff9-1a26-405b-9000-38c627668ba0",
+            "actions": [
+                {
+                    "name": "PointerPosition",
+                    "type": "Value",
+                    "id": "450d2f45-6d99-4ebb-8d52-e7e82eb6da23",
+                    "expectedControlType": "Vector2",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": true
+                },
+                {
+                    "name": "Attack",
+                    "type": "Button",
+                    "id": "5af18dbd-8a89-4351-a782-4838b3920d08",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "e6fa4edf-7eec-4935-a935-eed64affd7af",
+                    "path": "<Mouse>/position",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "PointerPosition",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "b57fcaf8-49b4-4f19-8c92-41cdcdbd0c39",
+                    "path": "<Mouse>/leftButton",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Attack",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}
