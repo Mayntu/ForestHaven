@@ -1,0 +1,642 @@
+fileFormatVersion: 2
+guid: 4b983289ab240904aad6abbb0adcbb1c
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: plainDecoration_1_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 117
+        width: 40
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e9dfc35df3bf2a499b8987f85e4a619
+      internalID: 1878332933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plainDecoration_1_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 117
+        width: 8
+        height: 41
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1d0250974c094e4aadc09a35b7ee549
+      internalID: 58815860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plainDecoration_1_2
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 117
+        width: 42
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46c71684e3148334897f30b7485f8c55
+      internalID: -1431409162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plainDecoration_1_3
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 128
+        width: 24
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32aba77910e7ee64ea425861cc7cef5c
+      internalID: -1474494356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plainDecoration_1_4
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 147
+        width: 8
+        height: 10
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c420890eeb8f906479ae3cd24df2f215
+      internalID: -2145780003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plainDecoration_1_5
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 148
+        width: 10
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd98a0b21c13a3409c4b49e04702f41
+      internalID: 695775227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plainDecoration_1_6
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 133
+        width: 10
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cbec3f8f8dcf1d41bf49f8ef36f209b
+      internalID: 944013747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plainDecoration_1_7
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 133
+        width: 12
+        height: 8
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e44bc02fd2a5b3947924a15fc6138f87
+      internalID: -1434689020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plainDecoration_1_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 101
+        width: 40
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd8ce52196d9e34daed98e26cf41dfa
+      internalID: -557554032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plainDecoration_1_9
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 101
+        width: 8
+        height: 9
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2b0a5c8e23113a429d90fe4b884446c
+      internalID: 109609107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plainDecoration_1_10
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 101
+        width: 12
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8a03fac3b2c2f44484fcf130f1f87b5
+      internalID: 670936110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plainDecoration_1_11
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 101
+        width: 12
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93c3041b793c5a14f91d25d1247e6e1c
+      internalID: 1674769939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plainDecoration_1_12
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 96
+        width: 24
+        height: 21
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ac260f101d3df94e9a3dca316b2a754
+      internalID: 716268525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plainDecoration_1_13
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 53
+        width: 48
+        height: 32
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 903a8d515f2931e41818be0ccf290fa0
+      internalID: 1258592753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plainDecoration_1_14
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 53
+        width: 21
+        height: 29
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a74c4b5a17b0934aa065d870124a731
+      internalID: 1360001093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plainDecoration_1_15
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 69
+        width: 8
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67d840a4902b88d4c9465e0222a78ee2
+      internalID: -2133517303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plainDecoration_1_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 69
+        width: 32
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e17e11a1bbe85df4caf3249871ffce64
+      internalID: 1055080230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plainDecoration_1_17
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 16
+        width: 40
+        height: 80
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69b3caa7910232446b6a21fc1cf04554
+      internalID: -877445560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plainDecoration_1_18
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 21
+        width: 40
+        height: 59
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9cb600534515f4894ef072ae83c431
+      internalID: 1551012004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plainDecoration_1_19
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 21
+        width: 40
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 262aa7acc8c81174a806a8ab37a9f749
+      internalID: 1753476247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plainDecoration_1_20
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 21
+        width: 40
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf7f58bd7febfcf4cbd594d27fd87374
+      internalID: 120033139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plainDecoration_1_21
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 21
+        width: 8
+        height: 43
+      alignment: 9
+      pivot: {x: 0.5, y: 0.17}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa454ec85144bb34dbbe0e7d4cc2f827
+      internalID: -1772534493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: plainDecoration_1_22
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 53
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab79c4bb14484b5438b05dc8b48e5aa4
+      internalID: -1873411377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      plainDecoration_1_1: 58815860
+      plainDecoration_1_11: 1674769939
+      plainDecoration_1_7: -1434689020
+      plainDecoration_1_4: -2145780003
+      plainDecoration_1_2: -1431409162
+      plainDecoration_1_19: 1753476247
+      plainDecoration_1_21: -1772534493
+      plainDecoration_1_0: 1878332933
+      plainDecoration_1_14: 1360001093
+      plainDecoration_1_22: -1873411377
+      plainDecoration_1_8: -557554032
+      plainDecoration_1_20: 120033139
+      plainDecoration_1_16: 1055080230
+      plainDecoration_1_17: -877445560
+      plainDecoration_1_18: 1551012004
+      plainDecoration_1_12: 716268525
+      plainDecoration_1_3: -1474494356
+      plainDecoration_1_5: 695775227
+      plainDecoration_1_13: 1258592753
+      plainDecoration_1_15: -2133517303
+      plainDecoration_1_9: 109609107
+      plainDecoration_1_6: 944013747
+      plainDecoration_1_10: 670936110
+      plainDecoration_1_23: 427497917
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

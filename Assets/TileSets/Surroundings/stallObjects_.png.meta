@@ -1,0 +1,641 @@
+fileFormatVersion: 2
+guid: b35c23d18f8e556468913b0537398575
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: stallObjects__0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 154
+        width: 7
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbdf08d779198084eb370afb434bf8a1
+      internalID: 700242652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stallObjects__1
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 154
+        width: 16
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74975bf7974df7c4fb3ecdb68f0b353c
+      internalID: 788019449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stallObjects__2
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 154
+        width: 9
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3802831f20713dc45bda0d6220c91e6d
+      internalID: 1555156166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stallObjects__3
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 122
+        width: 7
+        height: 14
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7119d2e2b59d5a4db362fe191dbfb6e
+      internalID: -1866948183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stallObjects__4
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 122
+        width: 14
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72c471e057571fa45b14170bd3758bfa
+      internalID: 411238554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stallObjects__5
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 122
+        width: 14
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f2afbbdec77444987f6609ac715adf
+      internalID: -892115932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stallObjects__6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 122
+        width: 7
+        height: 11
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6910ade484220e6439e116cee1991c10
+      internalID: 119989879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stallObjects__7
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 90
+        width: 7
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d120ba7b403719b4fba793f48aeac762
+      internalID: 738878726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stallObjects__8
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 90
+        width: 14
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba23fb88b864a234698628a5945592e0
+      internalID: -771951981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stallObjects__9
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 90
+        width: 14
+        height: 13
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c97ea4112bff094f964717ae8cb2895
+      internalID: 1549321028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stallObjects__10
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 90
+        width: 7
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c45dbd136839bd24786fb3c19512cacd
+      internalID: 76866504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stallObjects__11
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 58
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57bdc94349fc312489fc5b3c22711779
+      internalID: 494883015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stallObjects__12
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 58
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 92716375be48dca4aaad1c42b4a3ed93
+      internalID: -295413481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stallObjects__13
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 58
+        width: 14
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aefced8e120262c44b37eaf0be54b0e7
+      internalID: -355885348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stallObjects__14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 58
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a6960e7bf196b46b7ddf253a6640b7
+      internalID: -614495175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stallObjects__15
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 58
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31a8f66459dc16647876ec197124aad8
+      internalID: -335484594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stallObjects__16
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 58
+        width: 14
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb91d584ac312434c90ca5298c4e302e
+      internalID: -1169887710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stallObjects__17
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 26
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1455f671010fdd046a25eef16c56bac5
+      internalID: -2005199659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stallObjects__18
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 26
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9e63de8e18c5b841980d2c25e9f682a
+      internalID: 1545335820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stallObjects__19
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 26
+        width: 14
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b47f2ebd1bcdf6244935048fb6cce602
+      internalID: -564159583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stallObjects__20
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 26
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b919dd8e6ff18a4d9639f4e8be6458d
+      internalID: 920021453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stallObjects__21
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 26
+        width: 8
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a55bbe4181fd95e4d9182f1cea2eb812
+      internalID: 1658404925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: stallObjects__22
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 26
+        width: 14
+        height: 12
+      alignment: 9
+      pivot: {x: 0.5, y: 0.175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce216a028c452b468f9a95d632ebe6b
+      internalID: -1047593938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      stallObjects__3: -1866948183
+      stallObjects__5: -892115932
+      stallObjects__20: 920021453
+      stallObjects__1: 788019449
+      stallObjects__15: -335484594
+      stallObjects__2: 1555156166
+      stallObjects__22: -1047593938
+      stallObjects__12: -295413481
+      stallObjects__11: 494883015
+      stallObjects__7: 738878726
+      stallObjects__6: 119989879
+      stallObjects__17: -2005199659
+      stallObjects__18: 1545335820
+      stallObjects__21: 1658404925
+      stallObjects__14: -614495175
+      stallObjects__13: -355885348
+      stallObjects__10: 76866504
+      stallObjects__8: -771951981
+      stallObjects__9: 1549321028
+      stallObjects__16: -1169887710
+      stallObjects__19: -564159583
+      stallObjects__0: 700242652
+      stallObjects__4: 411238554
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
